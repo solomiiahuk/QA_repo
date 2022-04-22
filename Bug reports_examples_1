@@ -1,0 +1,31 @@
+ID: 0101
+
+Build:01DF
+
+Status: Assigned
+
+Author: Solomiia
+
+Assignee: Petro
+
+Priority: P1 High
+
+Severity: Major
+
+Environment: Web browser - Mozilla Firefox 72.0.2; OS - Windows 10.
+
+Summary: Crash JPG file in chat of app in process loading.
+
+Description: When user downloads JPG file in his chat, if file has 90% of loading it crashes.
+
+Pre-condition: Open site of web app * .
+
+Steps to reproduce:
+
+Open app's chat.
+Press button "find file".
+Choose file JPG.
+Pull button "load file".
+Actual result: On 90% loading file is crashed.
+
+Expected result: Chosen JPG file is downloaded.
