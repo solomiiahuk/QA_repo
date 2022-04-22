@@ -1,0 +1,18 @@
+№                          Check                                Result                   Environment: Google Chrome 96.0
+Registration
+1.	Email
+2.	Social networks
+3.	Field validation
+Authorization
+4.	User is available
+5.	User is not available
+6.	Password recovery
+7.	Field validation
+Personal profile
+8.	Change of name
+9.	Change email
+10.	Change of password
+11.	Field validation
+12.	Subscription
+13.	Deleting of account
+Attached file is on this link https://github.com/solomiiahuk/QA_repo/wiki/Check-lists_examples_3
