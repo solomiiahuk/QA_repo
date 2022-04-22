@@ -1,0 +1,19 @@
+Registration of new user (positive)
+
+Author: Solomiia
+
+Priority: High
+
+Pre-condition: Open site url
+
+Steps:
+
+Press button "registration".
+Fill in required fields.
+Pull button "register".
+Expected result:
+
+Field of registration is opened.
+Valid fields are filled in.
+User is successfully registred.
+Attachment is on this link https://github.com/solomiiahuk/QA_repo/wiki/Test-cases_examples_1
