@@ -1,0 +1,31 @@
+ID: 0204
+
+Build:01AS
+
+Status: Assigned
+
+Author: Solomiia
+
+Assignee: Petro.
+
+Priority: P1 High.
+
+Severity: S2 Medium.
+
+Environment: Web browser - Google Chrome 95.0; OS - Windows 10.
+
+Summary: Uncorrect translation of Ukranian version of site.
+
+Description: Titles majority of options and buttons of site are uncorrect translated in Ukranian language when choose Ukranian version.
+
+Pre-condition: Open site url * .
+
+Steps to reproduce:
+
+Open the main page of site.
+Press button "language" in right top corner/
+Choose Ukranian language.
+Scroll down to catalogue of medicine.
+Actual result: Mostly of descriptions of medecine treatments are shown Russian language.
+
+Expected result: All descriptions of medecine treatments are shown Ukranian language.
