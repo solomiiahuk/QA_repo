@@ -26,6 +26,7 @@ Open app's chat.
 Press button "find file".
 Choose file JPG.
 Pull button "load file".
+
 Actual result: On 90% loading file is crashed.
 
 Expected result: Chosen JPG file is downloaded.
