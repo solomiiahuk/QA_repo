@@ -23,7 +23,7 @@ Switch on wifi connection in phone's settings.
 Steps to reproduce:
 1. Download and install app * .
 2. Press  "launch app".
-3. Check "open app" on the home screeen after loading.
+3. Check the Home screen after loading.
 
 Actual result: Home screen is not showed also app * frozen.
 
