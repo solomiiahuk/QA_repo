@@ -14,18 +14,19 @@ Severity: S2 Medium.
 
 Environment: Web browser - Google Chrome 95.0; OS - Windows 10.
 
-Summary: Uncorrect translation of Ukranian version of site.
+Summary: Ukranian localization doesn't work.
 
-Description: Titles majority of options and buttons of site are uncorrect translated in Ukranian language when choose Ukranian version.
+Description: Titles of buttons and descriptions are not translated in Ukranian language when choose Ukranian version in hamburger button.
 
 Pre-condition: Open site url * .
 
 Steps to reproduce:
 
 Open the main page of site.
-Press button "language" in right top corner/
+Press button "language" in right top corner.
 Choose Ukranian language.
 Scroll down to catalogue of medicine.
-Actual result: Mostly of descriptions of medecine treatments are shown Russian language.
 
-Expected result: All descriptions of medecine treatments are shown Ukranian language.
+Actual result:Descriptions of medecine treatments and titles of button are shown in English language.
+
+Expected result: All descriptions of medecine treatments are shown in Ukranian language.
