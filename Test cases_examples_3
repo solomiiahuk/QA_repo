@@ -15,6 +15,7 @@ Choose way for paid.
 Pay.
 Press on button agreement "terms and conditions".
 Pull button "Confirm registration".
+
 Expected result:
 
 Date field is displayed.
@@ -24,4 +25,5 @@ Paid way is available.
 Filling in date for paying chosen service.
 Button agreement "terms and conditions" is blue.
 Confirming reservation is done successfully.
+
 Attached file is on this link https://github.com/solomiiahuk/QA_repo/wiki/Test-cases_examples_3
