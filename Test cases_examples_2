@@ -12,10 +12,12 @@ Press button "registration".
 Fill in required fields.
 Write email with mistakes in field with confirmation of email.
 Pull button "register".
+
 Expected result:
 
 Field of registration is opened.
 Valid fields are filled in.
 Hint with uncorrect input of date is shown.
 User is not registered.
+
 Attached file is on this link https://github.com/solomiiahuk/QA_repo/wiki/Test-cases_examples_2
