@@ -11,6 +11,7 @@ Steps:
 Press button "registration".
 Fill in required fields.
 Pull button "register".
+
 Expected result:
 
 Field of registration is opened.
