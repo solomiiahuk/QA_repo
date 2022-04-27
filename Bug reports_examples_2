@@ -17,14 +17,11 @@ Environment: OS - Android 11; iOS 15, iOS 14.
 Summary:
 App * is not launched after loading .
 
-Pre-condition:
-Switch on wifi connection in phone's settings.
-
 Steps to reproduce:
 1. Download and install app * .
-2. Press  "launch app".
+2. Launch app.
 3. Check the Home screen after loading.
 
-Actual result: Home screen is not showed also app * frozen.
+Actual result: Home screen is not showed. App *  is frozen.
 
 Expected result: App is launched and home screen is displayed. 
